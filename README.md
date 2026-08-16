@@ -34,3 +34,9 @@
 **Commit**：记录一次项目修改
 
 **Markdown**：一种简单的文本排版语法
+
+## Branch 学习记录
+
+我创建了自己的第一个 GitHub Branch：`learn-branch`。
+
+我正在学习如何在不影响 main 分支的情况下修改项目。
